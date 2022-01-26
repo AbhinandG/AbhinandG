@@ -1,4 +1,4 @@
-Hey there! 👋 I'm Abhinand G, an IT Junior in College of Engineering Guindy, Anna University, Chennai.
+Hey there! 👋 I'm Abhinand G (He/him), an IT Junior in College of Engineering Guindy, Anna University, Chennai.
 I'm constantly learning every single day and i'm currently interested in expanding my knowledge in Data Science and Machine Learning
 <br>
 <br>
