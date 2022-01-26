@@ -7,7 +7,6 @@ I'm constantly learning every single day and i'm currently interested in expandi
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandG&layout=compact)](https://github.com/AbhinandG/github-readme-stats)
-![AbhinandG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinandG&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandG&layout=compact)](https://github.com/AbhinandG/github-readme-stats)![AbhinandG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinandG&hide=issues)
 ![img](https://activity-graph.herokuapp.com/graph?username=AbhinandG&theme=minimal)
 
