@@ -7,7 +7,7 @@ I'm constantly learning every single day and i'm currently interested in expandi
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhinandG&theme=tokyonight" style="height:200px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandG&layout=compact&theme=tokyonight" style="height:200px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinandG&theme=tokyonight" style="height:200px width:250px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandG&layout=compact&theme=tokyonight" style="height:200px"/>
 
 ![img](https://activity-graph.herokuapp.com/graph?username=AbhinandG&theme=dracula)
 
