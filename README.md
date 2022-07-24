@@ -8,5 +8,3 @@ I'm constantly learning every single day and i'm currently interested in expandi
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbhinandG&theme=tokyonight" style="height:180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandG&layout=compact&theme=tokyonight" style="height:180px" />
 
-![img](https://activity-graph.herokuapp.com/graph?username=AbhinandG&theme=dracula)
-
