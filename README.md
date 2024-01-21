@@ -37,7 +37,6 @@
 <br>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhinandG&theme=tokyonight" style="height:180px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandG&layout=compact&theme=tokyonight" style="height:180px" />
 
 </div>
