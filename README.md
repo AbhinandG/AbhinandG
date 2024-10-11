@@ -3,7 +3,6 @@
 <br>
 
 <div align="center">
-    I'm currently interested in expanding my knowledge in Data Science and Machine Learning
 
     Find me on:
 
